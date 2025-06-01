@@ -5,3 +5,8 @@ Python: Select Interpreter
   "python.pythonPath": ".venv\\Scripts\\python.exe",
   "jupyter.jupyterServerType": "local"
 }
+
+
+https://github.com/rmotr-curriculum/data-cleaning-rmotr-freecodecamp
+
+https://www.youtube.com/watch?v=r-uOLxNrNk8&t=257s
