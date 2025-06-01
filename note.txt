@@ -1,0 +1,7 @@
+python -m ipykernel install --user --name=.venv --display-name "Python 3.13 (.venv)"
+Python: Select Interpreter
+
+{
+  "python.pythonPath": ".venv\\Scripts\\python.exe",
+  "jupyter.jupyterServerType": "local"
+}
